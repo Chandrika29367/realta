@@ -6,7 +6,7 @@ A modern, production-ready real estate web application built with **Next.js 14**
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Home Page** — Hero search, featured listings, Buy/Sell CTAs
 - **Property Search** — Split layout with interactive Leaflet map, price markers & advanced filters
@@ -34,7 +34,7 @@ A modern, production-ready real estate web application built with **Next.js 14**
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -58,7 +58,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -87,7 +87,7 @@ src/
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 | Token | Value |
 |---|---|
@@ -99,20 +99,12 @@ src/
 
 ---
 
-## 📦 Build
+##  Build
 
 ```bash
 npm run build
 npm run start
 ```
-
----
-
-## 🌐 Deploy
-
-This project is ready to deploy on **Vercel** with zero configuration:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
 
 ---
 
